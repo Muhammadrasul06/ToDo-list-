@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List",
+  "description": "Secure cross-device smart to-do list with offline access, biometric security, voice typing, custom reminders, and haptic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
